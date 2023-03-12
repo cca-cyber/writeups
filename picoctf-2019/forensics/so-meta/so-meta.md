@@ -33,7 +33,6 @@ Bit Depth                       : 8
 Color Type                      : RGB
 Compression                     : Deflate/Inflate
 ...
-PNG IDAT (may be ignored by some readers)
 Artist                          : picoCTF{s0_m3ta_d8944929}
 Image Size                      : 600x600
 Megapixels                      : 0.360
